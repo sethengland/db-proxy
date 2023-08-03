@@ -1,0 +1,12 @@
+{
+    "users": {
+      "name": "TEXT",
+      "email": "TEXT"
+    },
+    "posts": {
+      "title": "TEXT",
+      "content": "TEXT",
+      "userId": "INTEGER"
+    }
+}
+  
